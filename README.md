@@ -117,5 +117,5 @@ Integrate with wearable or mobile sensor data streams
 
 👨‍💻 Author
 
-Mahesh
+Bandike Mahesh  (umamaheshbandike3@gmail.com)
 Machine Learning & Data Science Enthusiast
